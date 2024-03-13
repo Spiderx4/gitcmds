@@ -1,0 +1,25 @@
+git rsa password : 123456789
+
+git clone(repo link)	    it used to download your project from github
+git status		    it shows the current status of repo like how work saved(commit) or how much more left to save
+git init		    create a folder inside the folder use this git init cmd to made that folder to a github repo
+git branch		    it display the total branches of a repo
+git checkout 		    it is used to switch between branches of the repo
+git checkout -b featr-name  it is used to create a new branch of the repo
+git checkout -d featr-name  it is used to delete a branch of the repo
+git checkout master(b-name) branch switching of a repo  //TIP create unique end-name of the branch it will usefull
+git diff branch-1	    it shows the changes between the last changes and current changes in the repo
+git log			    it is used to check the history of commit of the repo
+
+GIT COMMIT UNDO
+git reset a.txt		    it is used to reset the file before it was commit
+git reset HEAD~1	    it is used to reset the current commit or just do 1 step back to the commit
+git reset nverewnbv	    it is used to reset to go on a specific commit stage
+
+git reset --hard file or step	= it is a HARD reset 
+
+
+ 
+
+
+

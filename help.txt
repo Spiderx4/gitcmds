@@ -1,0 +1,10 @@
+1. create repo 
+2. clone the repo
+ git clone example.git
+3. get into the repo 
+ cd example
+4. write your code
+5. git add .
+6. git status
+7. git commit -m "kuch bhi"
+8. git push

@@ -1,0 +1,32 @@
+offline mode or cmd line method of push
+
+create a folder
+then inside it and use git init to make it git repo
+go to github and create a repo on github
+
+//with working
+git add . to track the all files
+git commit -m "upoading" use this cmd to save file
+git status use to check all files are correct
+git remote add orign (paste github repo link in u uploading your data files)
+git config --global user.email "geeksahil47@gmail.com"
+git push origin master
+type password 123456789
+
+Its Done!
+
+
+
+second time
+
+after commit the files
+git status
+give orign if u are working with different repo or otherwise for same repo skip this step
+git config --global user.email "ethicaltester4444@gmail.com"
+git push orign master
+type pass
+
+its done!
+
+
+ 
